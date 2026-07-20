@@ -1,2 +1,26 @@
-# Word-Finder
-Python implementation of a hidden word checker that determines whether the letters of a word appear in order within another string, regardless of intervening characters.
+# Project Title
+
+## Description
+
+This project checks whether the characters of a word are hidden inside another string.
+
+## Usage
+
+```bash
+python main.py
+```
+
+## Example
+
+**Input**
+
+```
+donor
+Nabucodonosor
+```
+
+**Output**
+
+```
+Yes
+```
