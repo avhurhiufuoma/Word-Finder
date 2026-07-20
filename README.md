@@ -1,4 +1,4 @@
-# Word Finder
+# Project Title
 
 ## Description
 
@@ -22,5 +22,5 @@ Nabucodonosor
 **Output**
 
 ```
-Yes, word found in the right order.
+Yes
 ```
